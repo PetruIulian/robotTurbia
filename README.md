@@ -29,5 +29,5 @@ This repository contains the code and documentation for a fast line follower rob
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/line-follower-robot.git
+   git clone https://github.com/PetruIulian/line-follower-robot.git
    cd line-follower-robot
